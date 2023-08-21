@@ -16,8 +16,10 @@ The calculator is implemented using the following components:
 - I have used a significant type of software architecture called (Layered Architecture)
 
 - I wrote and used the following:
+- 
   1-DIO Driver
   2-LCD Driver
   3-Keypad Driver
+  
   you can read each driver_interface.h & config.h to understand how to use driver
   If you find any bugs, feel free to contact me
