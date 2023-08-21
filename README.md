@@ -7,6 +7,7 @@ the calculator Features:
 4- The user can perform many calculations at the same time
 
 The calculator is implemented using the following components:
+
 -atmega32 Microcontroller
 - LM016L 2x16(LCD)
 - Keypad (4x4)
